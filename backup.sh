@@ -1,1 +1,2 @@
-hi from dhinakar
+#!/bin/bash
+echo "Running backup process"
